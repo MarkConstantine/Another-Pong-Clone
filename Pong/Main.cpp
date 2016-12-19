@@ -80,7 +80,7 @@ int main()
 			// Left Paddle User Input
 			if (sf::Keyboard::isKeyPressed(sf::Keyboard::W) || sf::Keyboard::isKeyPressed(sf::Keyboard::Up)) 
 				leftPaddle.moveUp(dt);
-			else if (sf::Keyboard::isKeyPressed(sf::Keyboard::S))
+			else if (sf::Keyboard::isKeyPressed(sf::Keyboard::S) || sf::Keyboard::isKeyPressed(sf::Keyboard::Down))
 				leftPaddle.moveDown(dt);
 
 			// AI Movements

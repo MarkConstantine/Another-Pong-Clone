@@ -129,6 +129,9 @@
     <ClInclude Include="Ball.h" />
     <ClInclude Include="Constants.h" />
     <ClInclude Include="Paddle.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="resource1.h" />
+    <ClInclude Include="resource2.h" />
   </ItemGroup>
   <ItemGroup>
     <Font Include="rusq.ttf" />
@@ -137,6 +140,12 @@
     <Media Include="boop.wav" />
     <Media Include="lose.wav" />
     <Media Include="win.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Pong.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="pong.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
