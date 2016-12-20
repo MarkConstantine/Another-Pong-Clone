@@ -6,5 +6,5 @@ The straightforward method would be to use Visual Studio 2015
 
 1. Download ZIP
 2. Open Solution File
-3. Setup Visual Studio Environment to run SFML [Here's How](http://www.sfml-dev.org/tutorials/2.4/start-vc.php)
+3. [Setup Visual Studio Environment to run SFML](http://www.sfml-dev.org/tutorials/2.4/start-vc.php)
 4. Make sure to set build solution for 32-bit
