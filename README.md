@@ -1,5 +1,5 @@
 # Pong in SFML 2.3.2
-This is a basic pong game made using C++ and SFML 2.3.2. I made this to improve my object-orientated programming skills using C++ and SFML 2.3.2.
+This is a basic pong game made using C++ and SFML 2.3.2. I made this to improve my object-orientated programming skills using C++ and SFML 2.3.2. Any feedback would be appreciated. Thanks.
 
 ## Installation
 The straightforward method would be to use Visual Studio 2015 
@@ -8,5 +8,3 @@ The straightforward method would be to use Visual Studio 2015
 2. Open Solution File
 3. Setup Visual Studio Environment to run SFML [Here's How](http://www.sfml-dev.org/tutorials/2.4/start-vc.php)
 4. Make sure to set build solution for 32-bit
-
-Any feedback would be appreciated. Thanks.
