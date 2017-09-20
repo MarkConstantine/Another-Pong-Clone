@@ -7,6 +7,7 @@
 
 int main()
 {
+	// New window.
 	sf::RenderWindow window(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "Another Pong Clone");
 	window.setFramerateLimit(60);
 	
